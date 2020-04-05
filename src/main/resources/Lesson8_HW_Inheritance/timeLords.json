@@ -1,0 +1,78 @@
+{
+   "doctor":[
+      {
+         "incarnation":"10th",
+         "gender":"man",
+         "face":"young",
+         "hair":"sticky-uppy",
+         "clothes":"brown trenchcoat and red Converse",
+         "motto":"Allons-y!",
+         "companion":"Rose",
+         "lastwords":"I don't wanna go!"
+      },
+      {
+         "incarnation":"11th",
+         "gender":"man",
+         "face":"young",
+         "hair":"side-parting",
+         "clothes":"bow tie and fez",
+         "motto":"Geronimo!",
+         "companion":"Amy",
+         "lastwords":"I will always remember when the Doctor was me!"
+      },
+      {
+         "incarnation":"12th",
+         "gender":"man",
+         "face":"old",
+         "hair":"poofy grey",
+         "clothes":"frock coat and Dr. Martens",
+         "motto":"Shut up!",
+         "companion":"Clara",
+         "lastwords":"Doctor, I let you go!"
+      },
+      {
+         "incarnation":"13th",
+         "gender":"woman",
+         "face":"young",
+         "hair":"bob",
+         "clothes":"rainbow T-shirt and suspenders",
+         "motto":"Brilliant!",
+         "companion":"Fam",
+         "lastwords":"Stop, stop, STOP. No regeneration! I've won and I'm still me!"
+      }
+   ],
+   "master":[
+      {
+         "incarnation":"Yana",
+         "gender":"man",
+         "face":"old",
+         "hair":"short grey",
+         "clothes":"waistcoat and fob watch",
+         "motto":"You are not alone!"
+      },
+      {
+         "incarnation":"Saxon",
+         "gender":"man",
+         "face":"young",
+         "hair":"short bleached",
+         "clothes":"black hoodie and scarlet T-shirt",
+         "motto":"Vote Saxon!"
+      },
+      {
+         "incarnation":"Missy",
+         "gender":"woman",
+         "face":"middle aged",
+         "hair":"wild and free black",
+         "clothes":"victorian-styled garb",
+         "motto":"Say something nice!"
+      },
+      {
+         "incarnation":"Spy",
+         "gender":"man",
+         "face":"young",
+         "hair":"beard and short black",
+         "clothes":"purple frockcoat and knee-high socks",
+         "motto":"Look for the spy...Master!"
+      }
+   ]
+}
