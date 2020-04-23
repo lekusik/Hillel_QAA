@@ -1,0 +1,46 @@
+{
+  "name":"Leka-PC",
+  "monitor":{
+	 "brand":"LG",
+	 "model":"27MD5KA",
+	 "size":"27",
+	 "resolution":"5120x2880"
+  },
+  "keyboard":{
+	 "brand":"Logitech",
+	 "model":"K800",
+	 "interFace":"USB",
+	 "backLight":"true"
+  },
+  "mouse":{
+	 "brand":"Logitech",
+	 "model":"M560",
+	 "interFace":"USB",
+	 "buttons":"7"
+  },
+  "systemUnit":{
+	 "formFactor":"tower",
+	 "motherboard":{
+		"brand":"Asus",
+		"model":"WS C422 PRO/SE",
+		"ramSlots":"4"
+	 },
+	 "cpu":{
+		"brand":"Intel Core",
+		"model":"i9-9980XE",
+		"cores":"18",
+		"speed":"4.4"
+	 },
+	 "dataStorage":{
+		"brand":"Kingston",
+		"model":"DC500M",
+		"type":"SSD",
+		"capacity":"4"
+	 },
+	 "ram":{
+		"brand":"HyperX",
+		"type":"DDR-4",
+		"capacity":"512"
+	 }
+  }
+}
